@@ -1,0 +1,13 @@
+Column 1,Column 2,Column 3,Column 4
+a,b,c,d
+,,,d
+b,a,d,c
+a,,c,d
+a,,d,
+c,b,d,c
+b,a,c,d
+,a,d,c
+c,b,,c
+a,b,c,d
+b,b,c,d
+c,b,c,d
